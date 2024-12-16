@@ -1,0 +1,26 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CSCI360_Assign3_MeganB.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.c
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(320,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(342,31): warning C4244: '=': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(343,30): warning C4244: '=': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(346,75): warning C4244: 'function': conversion from 'LONGLONG' to 'SIZE_T', possible loss of data
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(347,78): warning C4244: 'function': conversion from 'LONGLONG' to 'SIZE_T', possible loss of data
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(367,13): warning C4047: '=': 'HANDLE' differs in levels of indirection from 'int'
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(377,78): warning C4244: 'function': conversion from 'LONGLONG' to 'SIZE_T', possible loss of data
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(403,74): warning C4244: 'function': conversion from 'LONGLONG' to 'SIZE_T', possible loss of data
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(404,76): warning C4244: 'function': conversion from 'LONGLONG' to 'SIZE_T', possible loss of data
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(410,74): warning C4244: 'function': conversion from 'LONGLONG' to 'SIZE_T', possible loss of data
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(429,25): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'HANDLE'
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(429,25): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'HANDLE'
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(442,25): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'HANDLE'
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(442,25): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'HANDLE'
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(477,11): warning C4047: '=': 'HANDLE' differs in levels of indirection from 'int'
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(480,12): warning C4047: '=': 'HANDLE' differs in levels of indirection from 'int'
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(492,74): warning C4244: 'function': conversion from 'LONGLONG' to 'SIZE_T', possible loss of data
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(493,76): warning C4244: 'function': conversion from 'LONGLONG' to 'SIZE_T', possible loss of data
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(498,25): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'HANDLE'
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(498,25): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'HANDLE'
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(510,25): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'HANDLE'
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(510,25): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'HANDLE'
+C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\FileInsertionSort\Source.c(413,40): warning C4244: 'initializing': conversion from 'LONGLONG' to 'int', possible loss of data
+  FileInsertionSort.vcxproj -> C:\Users\megbe\OneDrive\Desktop\CSCI 360\Memory Maps\Debug\FileInsertionSort.exe
