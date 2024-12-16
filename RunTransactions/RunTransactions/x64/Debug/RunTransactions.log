@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\megbe\OneDrive\Desktop\RunTransactions\RunTransactions\Source.c(53,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  RunTransactions.vcxproj -> C:\Users\megbe\OneDrive\Desktop\RunTransactions\x64\Debug\RunTransactions.exe

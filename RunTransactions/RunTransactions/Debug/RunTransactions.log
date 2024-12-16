@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\CSCI 360\RunTransactions\RunTransactions\Source.c(51,34): warning C4244: '=': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\CSCI 360\RunTransactions\RunTransactions\Source.c(100,25): warning C4013: '_beginthreadex' undefined; assuming extern returning int
+C:\CSCI 360\RunTransactions\RunTransactions\Source.c(157,16): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+C:\CSCI 360\RunTransactions\RunTransactions\Source.c(145,36): warning C4244: 'initializing': conversion from 'LONGLONG' to 'int', possible loss of data
+  RunTransactions.vcxproj -> C:\CSCI 360\RunTransactions\Debug\RunTransactions.exe
