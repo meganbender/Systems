@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\CSCI 360\DonutShop_v.1\DonutShop_v.1\Source.c(127,30): warning C4013: '_beginthreadex' undefined; assuming extern returning int
+  DonutShop_v.1.vcxproj -> C:\CSCI 360\DonutShop_v.1\Debug\DonutShop_v.1.exe
