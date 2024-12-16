@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CSCI360_Assign3_MeganB.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.c
+C:\Users\megbe\OneDrive\Desktop\FileInsertionSort\FileInsertionSort\Source.c(72,34): warning C4244: 'initializing': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\megbe\OneDrive\Desktop\FileInsertionSort\FileInsertionSort\Source.c(73,34): warning C4244: 'initializing': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\megbe\OneDrive\Desktop\FileInsertionSort\FileInsertionSort\Source.c(229,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\megbe\OneDrive\Desktop\FileInsertionSort\FileInsertionSort\Source.c(263,33): warning C4244: 'initializing': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\megbe\OneDrive\Desktop\FileInsertionSort\FileInsertionSort\Source.c(341,40): warning C4244: 'initializing': conversion from 'LONGLONG' to 'int', possible loss of data
+C:\Users\megbe\OneDrive\Desktop\FileInsertionSort\FileInsertionSort\Source.c(194,12): warning C4101: 'OutFile': unreferenced local variable
+C:\Users\megbe\OneDrive\Desktop\FileInsertionSort\FileInsertionSort\Source.c(193,12): warning C4101: 'InFile': unreferenced local variable
+C:\Users\megbe\OneDrive\Desktop\FileInsertionSort\FileInsertionSort\Source.c(205,10): warning C4101: 'hOutFiles': unreferenced local variable
+C:\Users\megbe\OneDrive\Desktop\FileInsertionSort\FileInsertionSort\Source.c(204,10): warning C4101: 'hProc': unreferenced local variable
+C:\Users\megbe\OneDrive\Desktop\FileInsertionSort\FileInsertionSort\Source.c(265,15): warning C4101: 'J_Item': unreferenced local variable
+C:\Users\megbe\OneDrive\Desktop\FileInsertionSort\FileInsertionSort\Source.c(262,17): warning C4101: 'spot': unreferenced local variable
+C:\Users\megbe\OneDrive\Desktop\FileInsertionSort\FileInsertionSort\Source.c(264,10): warning C4101: 'j': unreferenced local variable
+C:\Users\megbe\OneDrive\Desktop\FileInsertionSort\FileInsertionSort\Source.c(264,7): warning C4101: 'i': unreferenced local variable
+C:\Users\megbe\OneDrive\Desktop\FileInsertionSort\FileInsertionSort\Source.c(265,10): warning C4101: 'key': unreferenced local variable
+  FileInsertionSort.vcxproj -> C:\Users\megbe\OneDrive\Desktop\FileInsertionSort\Debug\FileInsertionSort.exe
