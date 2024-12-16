@@ -1,9 +1,0 @@
-b67d6458. Record Number: 00000007.abcdefghijklmnopqrstuvwxyz x
-6aa5053b. Record Number: 00000006.abcdefghijklmnopqrstuvwxyz x
-2d02dfca. Record Number: 00000005.abcdefghijklmnopqrstuvwxyz x
-e7025f35. Record Number: 00000004.abcdefghijklmnopqrstuvwxyz x
-6119dd6c. Record Number: 00000003.abcdefghijklmnopqrstuvwxyz x
-74fa261f. Record Number: 00000002.abcdefghijklmnopqrstuvwxyz x
-228e25be. Record Number: 00000001.abcdefghijklmnopqrstuvwxyz x
-057ff479. Record Number: 00000000.abcdefghijklmnopqrstuvwxyz x
-Press any key to continue . . . 
