@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\CSCI 360\find\find\Source.c(67,35): warning C4013: '_beginthreadex' undefined; assuming extern returning int
+C:\CSCI 360\find\find\Source.c(98,24): warning C4028: formal parameter 1 different from declaration
+C:\CSCI 360\find\find\Source.c(101,24): warning C4018: '<=': signed/unsigned mismatch
+  find.vcxproj -> C:\CSCI 360\find\Debug\find.exe
