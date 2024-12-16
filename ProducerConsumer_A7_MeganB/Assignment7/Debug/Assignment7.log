@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\CSCI 360\ProducerConsumer_A7_MeganB\Assignment7\Source.c(85,22): warning C4013: '_beginthreadex' undefined; assuming extern returning int
+  Assignment7.vcxproj -> C:\CSCI 360\ProducerConsumer_A7_MeganB\Debug\Assignment7.exe
