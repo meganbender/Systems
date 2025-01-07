@@ -14,7 +14,7 @@
     Counting Semaphores, and Events to properly protect shared resources.
 
 ### File Insertion Sort
-  - Goal: Using the command line (programName #[for child processes] <unsorted.txt >sorted.txt take a file from standard in, sort
+  - Goal: Using the command line (*programName #[for child processes] <unsorted.txt >sorted.txt*) take a file from standard in, sort
     the data, and dump to standard out. The data will be in the form of records 64 bytes in length, where the first 8 bytes are the key
     (i.e., sort by this key). If there are no command line options for how many child processes will be there use the # of cores (but take
     the next power of 2) on the computer.
